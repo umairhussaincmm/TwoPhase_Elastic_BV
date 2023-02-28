@@ -1,0 +1,10 @@
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/Two_Phase_Elasticity.dir
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/run.dir
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/debug.dir
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/release.dir
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/runclean.dir
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/distclean.dir
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/strip_comments.dir
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/info.dir
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug/CMakeFiles/rebuild_cache.dir

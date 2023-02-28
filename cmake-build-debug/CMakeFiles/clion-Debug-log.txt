@@ -1,0 +1,6 @@
+/snap/clion/222/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/222/bin/ninja/linux/x64/ninja -G Ninja -S /home/umair/myGit/Two_Phase_Elasticity -B /home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug
+-- Autopilot invoked
+-- Run  $ ninja info  to print a detailed help message
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug

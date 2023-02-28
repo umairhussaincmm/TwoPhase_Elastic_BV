@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Two_Phase_Elasticity",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Two_Phase_Elasticity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Two_Phase_Elasticity-Debug-120b13ed6c5f5de0fca0.json",
+					"name" : "Two_Phase_Elasticity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "debug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-debug-Debug-c3e1b007fb75cba03794.json",
+					"name" : "debug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "distclean::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-distclean-Debug-f8fdfeef3e5050c21498.json",
+					"name" : "distclean",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "info::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-info-Debug-8eae5bcc1ad690a96b5c.json",
+					"name" : "info",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "release::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release-Debug-074456bea2af010b3292.json",
+					"name" : "release",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run-Debug-02c2b12b2b878a6d1554.json",
+					"name" : "run",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runclean::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runclean-Debug-9dfaf324fe61901abe94.json",
+					"name" : "runclean",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strip_comments::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strip_comments-Debug-6e69a210c29d96cbeefd.json",
+					"name" : "strip_comments",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/umair/myGit/Two_Phase_Elasticity/cmake-build-debug",
+		"source" : "/home/umair/myGit/Two_Phase_Elasticity"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
